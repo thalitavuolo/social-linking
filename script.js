@@ -7,7 +7,7 @@ function toggleMode() {
   else {
     html.classList.add('light')
   }
-  este código funcionaria para trocar o light mode pelo darkmode 
+  este código funcionaria para trocar o light mode pelo dark mode 
   (e vice-versa), mas o JS já tem essa funcionalidade através do método toggle.
 */
   html.classList.toggle('light')
